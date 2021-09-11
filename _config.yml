@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Chanwoo Lee"
 title_separator          : "-"
-name                     : &name "Chabwoo Lee"
+name                     : &name "Chanwoo Lee"
 description              : &description "Statistics Ph.D. candidate at University of Wisconsin-Madusib"
 url                      : https://Chanwoost.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=xN5M248AAAAJ&hl=en"
-  email            : chanwoo.lee@wisc.edu
+  email            : "chanwoo.lee@wisc.edu"
   researchgate     : 
   uri              :
   bitbucket        :

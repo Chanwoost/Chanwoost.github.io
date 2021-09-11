@@ -1,7 +1,7 @@
 ---
 title: "Tensor denoising and completion based on ordinal observations"
 collection: publications
-permalink: /publications/signT
+permalink: /publications/ordinalT
 citation: '<b>Chanwoo Lee</b> and Miaoyan Wang. ICML 2021.'
 ---
 

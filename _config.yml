@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Chanwoo Lee"
 title_separator          : "-"
 name                     : &name "Chanwoo Lee"
-description              : &description "Statistics Ph.D. candidate at University of Wisconsin-Madusib"
+description              : &description "Ph.D. Candidate, Statistics, University of Wisconsin-Madison"
 url                      : https://Chanwoost.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Chanwoost/Chanwoost.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Chanwoo Lee"
   avatar           : "Chanwoo.jpeg"
-  bio              : "Ph.D. candidate at UW-Madison"
+  bio              : "Ph.D. Candidate, Statistics,  University of Wisconsin-Madison"
   location         : "Madison, WI, USA"
   employer         :
   pubmed           :
@@ -261,14 +261,14 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 # Plugins
 plugins:
   - jekyll-paginate
-  - jekyll-sitemap
+# - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
-  - jekyll-sitemap
+# - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jemoji
@@ -309,3 +309,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+theme: jekyll-theme-merlot

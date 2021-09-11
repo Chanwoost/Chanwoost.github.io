@@ -2,7 +2,6 @@
 title: "Nonparametric trace regression in high dimensions via sign series representation"
 collection: publications
 permalink: /publications/nonpara
-venue: "Under review"
 citation: '<b>Chanwoo Lee</b>, Lexin Li, Hao Helen Zhang, and Miaoyan Wang. Under review, 2021.'
 ---
 

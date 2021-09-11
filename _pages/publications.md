@@ -18,7 +18,7 @@ Jiaxin Hu, <b>Chanwoo Lee</b>, Miaoyan Wang.
 (This work wins Best Student Paper Award from the Statistical Computing and Graphics Section of American Statistical Association (ASA), 2021)
 
 
-<b>[Tensor denoising and completion based on ordinal observations](https://chanwoost.github.io/publications/Tregress)</b> <br> 
+<b>[Tensor denoising and completion based on ordinal observations](https://chanwoost.github.io/publications/ordinalT)</b> <br> 
 <b>Chanwoo Lee</b>, Miaoyan Wang.
 <i>International Conference on Machine Learning</i>. <b>ICML 2020</b>.
 

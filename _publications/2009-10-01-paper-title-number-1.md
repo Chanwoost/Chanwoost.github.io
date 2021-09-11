@@ -1,15 +1,10 @@
----
-title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
----
-This paper is about the number 1. The number 2 is left for future work.
+<u>C. Lee</u>, L. Li, H. Zhang, and M. Wang. <a href="https://arxiv.org/abs/2105.01783"> Nonparametric trace regression in high dimensions via sign series representation.</a> Under review, 2021.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+<u>C. Lee</u>, and M. Wang. <a href="https://arxiv.org/abs/2102.00384">Beyond the Signs: Nonparametric tensor completion via sign series.</a> Under review, 2021.
+
+J. Hu, <u>C. Lee</u>, and M. Wang. <a href = "https://arxiv.org/abs/1910.09499v2"> Supervised Tensor Decomposition with interactive side information.</a> Under review, 2020.
+
+<p>(This work wins Best Student Paper Award from the Statistical Computing and Graphics Section of American Statistical Association (ASA), 2021)</p>
+
+<u>C. Lee</u> and M. Wang. <a href="https://arxiv.org/abs/2002.06524">Tensor denoising and completion based on ordinal observations. </a> International Conference on Machine Learning (ICML), 2020.

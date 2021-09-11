@@ -7,3 +7,5 @@ venue: "Institude for Foundation of Data Science (IFDS) brown-bag"
 date: March 2020
 location: "University of Wisconsin-Madison"
 ---
+
+[[slides]](https://github.com/Chanwoost/Chanwoost.github.io/tree/master/files/IFDS.pdf)

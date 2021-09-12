@@ -57,17 +57,17 @@ Jiaxin Hu, <b>Chanwoo Lee</b>, Miaoyan Wang.
   
 Talks
 ======
-*[Estimating smooth tensor with unknown permutation](https://chanwoost.github.io/talks/smoothtensor)
+* [Estimating smooth tensor with unknown permutation](https://chanwoost.github.io/talks/smoothtensor)
   * Poster at Institude of Foundation of Data Science (IFDS) Summer school 2021 poster session, University of Wisconsin-Madison
 
-*[Supervised Tensor Decomposition with interactive side information](https://chanwoost.github.io/talks/supervised)
+* [Supervised Tensor Decomposition with interactive side information](https://chanwoost.github.io/talks/supervised)
   * Workshop talk at Advances in Neural Information Processing System 33 (NeuRIPS) Workshop on Machine Learning and the Physical Science, Online
 
-*[SNonparametric learning with matrix-valed predictors in high dimensions](https://chanwoost.github.io/talks/nonpara)
+* [Nonparametric learning with matrix-valed predictors in high dimensions](https://chanwoost.github.io/talks/nonpara)
   * Poster at Institude for Foundation of Data Science (IFDS) Kickoff 2020 poster session, Online
 
 
-*[Tensor denoising and completion based on ordinal observations](https://chanwoost.github.io/talks/ordinalT1)
+* [Tensor denoising and completion based on ordinal observations](https://chanwoost.github.io/talks/ordinalT1)
   * Talk at Bernoulli-IMS One World Symposium, Online
   * Conference proceedings talk at International Conference on Machine learning (ICML), Online
   * Talk at Institude for Foundation of Data Science (IFDS) brown-bag, University of Wisconsin-Madison

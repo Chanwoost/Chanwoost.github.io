@@ -19,7 +19,7 @@ Education
 Work experience
 ======
 * Summer Research Assistant, Institude for Foundation of Data Science (IFDS), 2021
-  * Researching hypergraph network system and hypergraphon estimation
+  * Researched hypergraph network system and hypergraphon estimation
   * Co-mentor: Kangwook Lee, Rebecca Willett
 
 * Graduate Research Assistant, University of Wisconsin-Madison, 2019-Present

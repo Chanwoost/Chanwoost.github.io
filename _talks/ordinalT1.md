@@ -8,4 +8,4 @@ date: July 2020
 location: "Online"
 ---
 
-[[slides]](https://github.com/Chanwoost/Chanwoost.github.io/tree/master/files/icmltalk.pdf)
+[[slides]](https://Chanwoost.github.io/files/icmltalk.pdf)

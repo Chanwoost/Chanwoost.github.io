@@ -1,5 +1,5 @@
 ---
-title: "Tensor denoising and compoetion based on ordinal observations"
+title: "Tensor denoising and completion based on ordinal observations"
 collection: talks
 type: "Talk"
 permalink: /talks/ordinalT2

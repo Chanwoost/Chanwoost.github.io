@@ -32,7 +32,7 @@ Work experience
   * Advisor: Byeong U. Park, Myungjoo Kang
 
 * Republic of Korea Air Force, 2013-2015
-  * Operated aero surveillance technicain
+  * Operated aero surveillance technician
 
 
 Publications
@@ -57,18 +57,17 @@ Jiaxin Hu, <b>Chanwoo Lee</b>, Miaoyan Wang.
   
 Talks
 ======
-<b>[Estimating smooth tensor with unknown permutation](https://chanwoost.github.io/talks/smoothtensor)</b> 
-  * Poster at Institude of Foundation of Data Science (IFDS) Summer school 2021 poster session, Madison, Wisconsin
+*[Estimating smooth tensor with unknown permutation](https://chanwoost.github.io/talks/smoothtensor)
+  * Poster at Institude of Foundation of Data Science (IFDS) Summer school 2021 poster session, University of Wisconsin-Madison
 
-<b>[Supervised Tensor Decomposition with interactive side information](https://chanwoost.github.io/talks/supervised)</b> 
+*[Supervised Tensor Decomposition with interactive side information](https://chanwoost.github.io/talks/supervised)
   * Workshop talk at Advances in Neural Information Processing System 33 (NeuRIPS) Workshop on Machine Learning and the Physical Science, Online
 
-<b>[SNonparametric learning with matrix-valed predictors in high dimensions](https://chanwoost.github.io/talks/nonpara)</b> 
+*[SNonparametric learning with matrix-valed predictors in high dimensions](https://chanwoost.github.io/talks/nonpara)
   * Poster at Institude for Foundation of Data Science (IFDS) Kickoff 2020 poster session, Online
 
 
-
-<b>[Tensor denoising and completion based on ordinal observations](https://chanwoost.github.io/talks/ordinalT1)</b> <br> 
+*[Tensor denoising and completion based on ordinal observations](https://chanwoost.github.io/talks/ordinalT1)
   * Talk at Bernoulli-IMS One World Symposium, Online
   * Conference proceedings talk at International Conference on Machine learning (ICML), Online
   * Talk at Institude for Foundation of Data Science (IFDS) brown-bag, University of Wisconsin-Madison

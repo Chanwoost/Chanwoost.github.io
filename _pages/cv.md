@@ -57,19 +57,20 @@ Jiaxin Hu, <b>Chanwoo Lee</b>, Miaoyan Wang.
   
 Talks
 ======
-*[Estimating smooth tensor with unknown permutation](https://chanwoost.github.io/talks/smoothtensor)</b> 
+<b>[Estimating smooth tensor with unknown permutation](https://chanwoost.github.io/talks/smoothtensor)</b> 
   * Poster at Institude of Foundation of Data Science (IFDS) Summer school 2021 poster session, Madison, Wisconsin
 
-<b>[Beyond the Signs: Nonparametric tensor completion via sign series](https://chanwoost.github.io/publications/signT)</b> <br>
-<b>Chanwoo Lee</b>, Miaoyan Wang.
-<i>Under review, 2021</i>. 
+<b>[Supervised Tensor Decomposition with interactive side information](https://chanwoost.github.io/talks/supervised)</b> 
+  * Workshop talk at Advances in Neural Information Processing System 33 (NeuRIPS) Workshop on Machine Learning and the Physical Science, Online
 
-<b>[Supervised Tensor Decomposition with interactive side information](https://chanwoost.github.io/publications/Tregress)</b> <br>
-Jiaxin Hu, <b>Chanwoo Lee</b>, Miaoyan Wang.
-<i>Under review, 2020</i><br> 
-(This work wins Best Student Paper Award from the Statistical Computing and Graphics Section of American Statistical Association (ASA), 2021)
+<b>[SNonparametric learning with matrix-valed predictors in high dimensions](https://chanwoost.github.io/talks/nonpara)</b> 
+  * Poster at Institude for Foundation of Data Science (IFDS) Kickoff 2020 poster session, Online
 
 
-<b>[Tensor denoising and completion based on ordinal observations](https://chanwoost.github.io/publications/ordinalT)</b> <br> 
-<b>Chanwoo Lee</b>, Miaoyan Wang.
-<i>International Conference on Machine Learning</i>. <b>ICML 2020</b>.
+
+<b>[Tensor denoising and completion based on ordinal observations](https://chanwoost.github.io/talks/ordinalT1)</b> <br> 
+  * Talk at Bernoulli-IMS One World Symposium, Online
+  * Conference proceedings talk at International Conference on Machine learning (ICML), Online
+  * Talk at Institude for Foundation of Data Science (IFDS) brown-bag, University of Wisconsin-Madison
+
+

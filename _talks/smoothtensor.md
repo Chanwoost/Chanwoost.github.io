@@ -8,4 +8,4 @@ date: July 2021
 location: "Madison, Wisconsin"
 ---
 
-[[poster]](https://github.com/Chanwoost/Chanwoost.github.io/blob/master/files/IFDS2021Summer_Chanwoo.pdf)
+[[poster]](https://Chanwoost.github.io/files/IFDS2021Summer_Chanwoo.pdf)

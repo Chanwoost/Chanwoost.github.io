@@ -8,4 +8,4 @@ date: September 2020
 location: "Online"
 ---
 
-[[poster]](https://github.com/Chanwoost/Chanwoost.github.io/blob/master/files/IFDS2020kickoff_chanwoo.pdf)
+[[poster]](https://Chanwoost.github.io/files/IFDS2020kickoff_chanwoo.pdf)

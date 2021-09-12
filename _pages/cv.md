@@ -57,8 +57,8 @@ Jiaxin Hu, <b>Chanwoo Lee</b>, Miaoyan Wang.
   
 Talks
 ======
-<b>[Estimating smooth tensor with unknown permutation](https://chanwoost.github.io/talks/smoothtensor)</b> <br>
-* Poster at Institude of Foundation of Data Science (IFDS) Summer school 2021 poster session, Madison, Wisconsin
+*[Estimating smooth tensor with unknown permutation](https://chanwoost.github.io/talks/smoothtensor)</b> 
+  * Poster at Institude of Foundation of Data Science (IFDS) Summer school 2021 poster session, Madison, Wisconsin
 
 <b>[Beyond the Signs: Nonparametric tensor completion via sign series](https://chanwoost.github.io/publications/signT)</b> <br>
 <b>Chanwoo Lee</b>, Miaoyan Wang.

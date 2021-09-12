@@ -3,7 +3,7 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citat
 permalink: /publications/
 author_profile: true
 ---
-<br>
+
 <b>[Nonparametric trace regression in high dimensions via sign series representation](https://chanwoost.github.io/publications/nonpara)</b> <br>
 <b>Chanwoo Lee</b>, Lexin Li, Hao Helen Zhang, and Miaoyan Wang.
 <i>Under review, 2021</i>. 

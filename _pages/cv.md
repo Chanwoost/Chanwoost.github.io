@@ -57,7 +57,19 @@ Jiaxin Hu, <b>Chanwoo Lee</b>, Miaoyan Wang.
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+<b>[Estimating smooth tensor with unknown permutation](https://chanwoost.github.io/talks/smoothtensor)</b> <br>
+* Poster at Institude of Foundation of Data Science (IFDS) Summer school 2021 poster session, Madison, Wisconsin
+
+<b>[Beyond the Signs: Nonparametric tensor completion via sign series](https://chanwoost.github.io/publications/signT)</b> <br>
+<b>Chanwoo Lee</b>, Miaoyan Wang.
+<i>Under review, 2021</i>. 
+
+<b>[Supervised Tensor Decomposition with interactive side information](https://chanwoost.github.io/publications/Tregress)</b> <br>
+Jiaxin Hu, <b>Chanwoo Lee</b>, Miaoyan Wang.
+<i>Under review, 2020</i><br> 
+(This work wins Best Student Paper Award from the Statistical Computing and Graphics Section of American Statistical Association (ASA), 2021)
+
+
+<b>[Tensor denoising and completion based on ordinal observations](https://chanwoost.github.io/publications/ordinalT)</b> <br> 
+<b>Chanwoo Lee</b>, Miaoyan Wang.
+<i>International Conference on Machine Learning</i>. <b>ICML 2020</b>.

@@ -8,4 +8,4 @@ date: August 2020
 location: "Online"
 ---
 
-[[slides]](https://github.com/Chanwoost/Chanwoost.github.io/tree/master/files/Chanwoo_lee_slides.pdf)
+[[slides]](https://Chanwoost.github.io/files/Chanwoo_lee_slides.pdf)

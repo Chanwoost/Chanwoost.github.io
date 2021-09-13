@@ -61,7 +61,7 @@ Work experience
   * Advisor: Miaoyan Wang
   
 * Summer Research Assistant, Institude for Foundation of Data Science (IFDS), 2021
-  * Researched hypergraph network system and hypergraphon estimation
+  * Researched hypergraph and hypergraphon estimation
   * Co-mentor: Kangwook Lee, Rebecca Willett
 
 * Undergraduate Research Assistant, Seoul National University, 2016-2018

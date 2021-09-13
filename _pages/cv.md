@@ -16,24 +16,6 @@ Education
 * B.S. in Mathematical Science and Statistics, Seoul National University, 2018
 
 
-Work experience
-======
-* Summer Research Assistant, Institude for Foundation of Data Science (IFDS), 2021
-  * Researched hypergraph network system and hypergraphon estimation
-  * Co-mentor: Kangwook Lee, Rebecca Willett
-
-* Graduate Research Assistant, University of Wisconsin-Madison, 2019-Present
-  * Researching statistical machine learning with a particualr focus on matrix/tensor data analysis
-  * Advisor: Miaoyan Wang
-
-* Undergraduate Research Assistant, Seoul National University, 2016-2018
-  * Implemented topic modeling algorithm based on Latent Dirichlet Allocation
-  * Worked on boundary detection and image classification
-  * Advisor: Byeong U. Park, Myungjoo Kang
-
-* Republic of Korea Air Force, 2013-2015
-  * Operated aero surveillance technician
-
 
 Publications
 ======
@@ -71,5 +53,24 @@ Talks
   * Talk at Bernoulli-IMS One World Symposium, Online
   * Conference proceedings talk at International Conference on Machine learning (ICML), Online
   * Talk at Institude for Foundation of Data Science (IFDS) brown-bag, University of Wisconsin-Madison
+
+Work experience
+======
+* Graduate Research Assistant, University of Wisconsin-Madison, 2019-Present
+  * Researching statistical machine learning with a particualr focus on matrix/tensor data analysis
+  * Advisor: Miaoyan Wang
+  
+* Summer Research Assistant, Institude for Foundation of Data Science (IFDS), 2021
+  * Researched hypergraph network system and hypergraphon estimation
+  * Co-mentor: Kangwook Lee, Rebecca Willett
+
+* Undergraduate Research Assistant, Seoul National University, 2016-2018
+  * Implemented topic modeling algorithm based on Latent Dirichlet Allocation
+  * Worked on boundary detection and image classification
+  * Advisor: Byeong U. Park, Myungjoo Kang
+
+* Republic of Korea Air Force, 2013-2015
+  * Operated aero surveillance technician
+
 
 

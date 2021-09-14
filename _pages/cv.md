@@ -29,13 +29,14 @@ Publications
 
 <b>[Supervised Tensor Decomposition with interactive side information](https://chanwoost.github.io/publications/Tregress)</b> <br>
 Jiaxin Hu, <b>Chanwoo Lee</b>, and Miaoyan Wang.
-<i>Accepted, Journal of Computational and Graphical Statistics, 2021.</i><br> 
+<i> Journal of Computational and Graphical Statistics (JCGS),</i> 2021.<br> 
 (This work wins Best Student Paper Award from the Statistical Computing and Graphics Section of American Statistical Association (ASA), 2021)
 
 
 <b>[Tensor denoising and completion based on ordinal observations](https://chanwoost.github.io/publications/ordinalT)</b> <br> 
-<b>Chanwoo Lee</b> and  Miaoyan Wang.
-<i>International Conference on Machine Learning</i>. <b>ICML 2020</b>.
+<b>Chanwoo Lee</b> and Miaoyan Wang.
+<i>International Conference on Machine Learning (ICML)</i>, 2020.
+
   
 Talks
 ======

@@ -14,7 +14,7 @@ author_profile: true
 
 <b>[Supervised Tensor Decomposition with interactive side information](https://chanwoost.github.io/publications/Tregress)</b> <br>
 Jiaxin Hu, <b>Chanwoo Lee</b>, and Miaoyan Wang.
-<i>Under review, 2020</i><br> 
+<i>Accepted, Journal of Computational and Graphical Statistics, 2020.</i><br> 
 (This work wins Best Student Paper Award from the Statistical Computing and Graphics Section of American Statistical Association (ASA), 2021)
 
 

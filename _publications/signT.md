@@ -2,7 +2,7 @@
 title: "Beyond the Signs: Nonparametric Tensor Completion via Sign Series"
 collection: publications
 permalink: /publications/signT
-citation: '<b>Chanwoo Lee</b> and Miaoyan Wang. Under review, 2021.'
+citation: '<b>Chanwoo Lee</b> and Miaoyan Wang. Accepted in Neurips, 2021.'
 ---
 
 [[Preprint]](https://arxiv.org/abs/2102.00384)

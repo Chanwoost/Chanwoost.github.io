@@ -35,7 +35,7 @@ Jiaxin Hu, <b>Chanwoo Lee</b>, and Miaoyan Wang.
 
 <b>[Tensor denoising and completion based on ordinal observations](https://chanwoost.github.io/publications/ordinalT)</b> <br> 
 <b>Chanwoo Lee</b> and Miaoyan Wang.
-<i>International Conference on Machine Learning (ICML)</i>, 2020.
+<i>Proceedings of International Conference on Machine Learning (ICML)</i>, 2020.
 
   
 Talks

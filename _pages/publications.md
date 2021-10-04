@@ -10,7 +10,7 @@ author_profile: true
 
 <b>[Beyond the Signs: Nonparametric tensor completion via sign series](https://chanwoost.github.io/publications/signT)</b> <br>
 <b>Chanwoo Lee</b> and  Miaoyan Wang.
-<i>Accepted in Neural Information Processing Systems (NeurIPS), 2021</i>. 
+<i>Advances in Neural Information Processing Systems 34 (NeurIPS)</i>, 2021. 
 
 <b>[Supervised Tensor Decomposition with interactive side information](https://chanwoost.github.io/publications/Tregress)</b> <br>
 Jiaxin Hu, <b>Chanwoo Lee</b>, and Miaoyan Wang.

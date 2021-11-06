@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
-[A PDF version](https://Chanwoost.github.io/files/CV_ChanwooLee.pdf)
+A PDF version of CV is available [here](https://Chanwoost.github.io/files/CV_ChanwooLee.pdf)
 
 Education
 ======

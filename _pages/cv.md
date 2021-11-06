@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV [pdf](https://Chanwoost.github.io/files/CV_ChanwooLee.pdf)"
 permalink: /cv/
 author_profile: true
 redirect_from:

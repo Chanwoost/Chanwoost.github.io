@@ -7,8 +7,8 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-[pdf](https://Chanwoost.github.io/files/CV_ChanwooLee.pdf)
+{% https://Chanwoost.github.io/files/CV_ChanwooLee.pdf %}
+
 
 Education
 ======

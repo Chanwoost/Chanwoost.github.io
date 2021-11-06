@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+{% include base_path %}
 [PDF](https://Chanwoost.github.io/files/CV_ChanwooLee.pdf)
 
 Education

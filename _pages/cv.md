@@ -1,13 +1,12 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: https://Chanwoost.github.io/files/CV_ChanwooLee.pdf
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% https://Chanwoost.github.io/files/CV_ChanwooLee.pdf %}
 
 
 Education

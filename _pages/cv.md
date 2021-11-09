@@ -19,7 +19,7 @@ Education
 
 Publications
 ======
-<b>[Smooth tensor estimation with unknown permutations](https://chanwoost.github.io/publications/smoothT)</b> <br>
+<b>[Smooth tensor estimation with unknown permutations](https://chanwoost.github.io/publications/Smooth)</b> <br>
 <b>Chanwoo Lee</b> and Miaoyan Wang.
 <i>Under review, 2021</i>. <br>
 (Part of the work is selected as oral presentation into NeurIPS 2021 Workshop on Quantum Tensor Networks in Machine Learning)

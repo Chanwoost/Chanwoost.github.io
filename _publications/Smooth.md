@@ -1,7 +1,7 @@
 ---
 title: "Smooth tensor estimation with unknown permutations"
 collection: publications
-permalink: /publications/nonpara
+permalink: /publications/Smooth
 citation: '<b>Chanwoo Lee</b> and Miaoyan Wang. Under review, 2021.'
 ---
 

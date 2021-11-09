@@ -19,6 +19,12 @@ Education
 
 Publications
 ======
+<b>[Smooth tensor estimation with unknown permutations](https://chanwoost.github.io/publications/smoothT)</b> <br>
+<b>Chanwoo Lee</b> and Miaoyan Wang.
+<i>Under review, 2021</i>. <br>
+(Part of the work is selected as oral presentation into NeurIPS 2021 Workshop on Quantum Tensor Networks in Machine Learning)
+
+
 <b>[Nonparametric trace regression in high dimensions via sign series representation](https://chanwoost.github.io/publications/nonpara)</b> <br>
 <b>Chanwoo Lee</b>, Lexin Li, Hao Helen Zhang, and Miaoyan Wang.
 <i>Under review, 2021</i>. 

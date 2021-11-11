@@ -50,7 +50,7 @@ Talks
   * Poster at Institude of Foundation of Data Science (IFDS) Summer school 2021 poster session, University of Wisconsin-Madison
 
 * [Supervised Tensor Decomposition with interactive side information](https://chanwoost.github.io/talks/supervised)
-  * Workshop talk at Advances in Neural Information Processing System 33 (NeuRIPS) Workshop on Machine Learning and the Physical Science, Online
+  * Workshop talk at Advances in Neural Information Processing System 33 (NeurIPS) Workshop on Machine Learning and the Physical Science, Online
 
 * [Nonparametric learning with matrix-valed predictors in high dimensions](https://chanwoost.github.io/talks/nonpara)
   * Poster at Institude for Foundation of Data Science (IFDS) Kickoff 2020 poster session, Online

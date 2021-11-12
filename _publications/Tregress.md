@@ -1,5 +1,5 @@
 ---
-title: "Supervised tensor decomposition with features on multiple modes"
+title: "Generalized Tensor Decomposition With Features on Multiple Modes"
 collection: publications
 permalink: /publications/Tregress
 citation: 'Jiaxin Hu, <b>Chanwoo Lee</b> and Miaoyan Wang. JCGS, 2021.'

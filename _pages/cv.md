@@ -36,7 +36,8 @@ Publications
 <b>[Generalized Tensor Decomposition with Features on Multiple Modes](https://chanwoost.github.io/publications/Tregress)</b> <br>
 Jiaxin Hu, <b>Chanwoo Lee</b>, and Miaoyan Wang.
 <i> Journal of Computational and Graphical Statistics (JCGS),</i> 2021.<br> 
-(This work wins Best Student Paper Award from the Statistical Computing and Graphics Section of American Statistical Association (ASA), 2021)
+(This work wins Best Student Paper Award from the Statistical Computing and Graphics Section of American Statistical Association (ASA), 2021)<br>
+(Part of the work is accepted into NeurIPS 2020 Workshop on Machine Learning and the Physical Sciences)
 
 
 <b>[Tensor denoising and completion based on ordinal observations](https://chanwoost.github.io/publications/ordinalT)</b> <br> 

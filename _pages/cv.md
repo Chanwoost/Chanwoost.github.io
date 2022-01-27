@@ -48,12 +48,12 @@ Jiaxin Hu, <b>Chanwoo Lee</b>, and Miaoyan Wang.
 Talks
 ======
 * [Estimating smooth tensor with unknown permutation](https://chanwoost.github.io/talks/smoothtensor)
-  *  at Neural Information Processing Systems 34 (NeurIPS) Workshop on Quantum Tensor
+  * Workshop talk at Advances in Neural Information Processing Systems 34 (NeurIPS) Workshop on Quantum Tensor
 Networks in Machine Learning, Online
   * Poster at Institude of Foundation of Data Science (IFDS) Summer school 2021 poster session, University of Wisconsin-Madison
 
 * [Beyond the Signs: Nonparametric tensor completion via sign series](https://chanwoost.github.io/talks/signtensor)
-  *  at Neural Information Processing Systems 34 (NeurIPS), Online
+  *  Conference proceedings talk at Neural Information Processing Systems 34 (NeurIPS), Online
 
 * [Supervised Tensor Decomposition with interactive side information](https://chanwoost.github.io/talks/supervised)
   * Workshop talk at Advances in Neural Information Processing System 33 (NeurIPS) Workshop on Machine Learning and the Physical Science, Online

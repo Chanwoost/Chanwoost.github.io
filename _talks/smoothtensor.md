@@ -4,7 +4,7 @@ collection: talks
 type: "Poster"
 permalink: /talks/smoothtensor
 venue: "Institude of Foundation of Data Science (IFDS) Summer school 2021 poster session, Neural Information Processing Systems 34 (NeurIPS) Workshop"
-date: July 2021, December 2021
+date: December 2021
 location: "Madison, Wisconsin, Online"
 ---
 

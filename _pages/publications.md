@@ -24,7 +24,6 @@ Jiaxin Hu, <b>Chanwoo Lee</b>, and Miaoyan Wang.
 * Part of the work is accepted into NeurIPS 2020 Workshop on Machine Learning and the Physical Sciences.
 
 
-
 <b>[Tensor denoising and completion based on ordinal observations](https://chanwoost.github.io/publications/ordinalT)</b> <br> 
 <b>Chanwoo Lee</b> and Miaoyan Wang.
 <i>Proceedings of International Conference on Machine Learning (ICML),</i> 2020.

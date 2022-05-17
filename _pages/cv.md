@@ -70,21 +70,15 @@ Networks in Machine Learning, Online
 
 Work experience
 ======
+* Quantitative Research Summer Intern,  Citadel (New York), 2022
+
 * Graduate Research Assistant, University of Wisconsin-Madison, 2019-Present
-  * Researching statistical machine learning with a particualr focus on matrix/tensor data analysis
-  * Advisor: Miaoyan Wang
-  
+
 * Summer Research Assistant, Institude for Foundation of Data Science (IFDS), 2021
-  * Researched hypergraph and hypergraphon estimation
-  * Co-mentor: Kangwook Lee, Rebecca Willett
 
 * Undergraduate Research Assistant, Seoul National University, 2016-2018
-  * Implemented topic modeling algorithm based on Latent Dirichlet Allocation
-  * Worked on boundary detection and image classification
-  * Advisor: Byeong U. Park, Myungjoo Kang
 
 * Republic of Korea Air Force, 2013-2015
-  * Operated aero surveillance technician
 
 
 

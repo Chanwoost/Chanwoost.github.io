@@ -70,7 +70,6 @@ Networks in Machine Learning, Online
 
 Work experience
 ======
-* Quantitative Research Summer Intern (Incoming),  Citadel (New York), 2022
 
 * Graduate Research Assistant, University of Wisconsin-Madison, 2019-Present
 

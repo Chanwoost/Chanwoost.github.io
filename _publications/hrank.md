@@ -1,7 +1,7 @@
 ---
 title: "Statistical and computational rates in high rank tensor estimation"
 collection: publications
-permalink: /publications/Smooth
+permalink: /publications/hrank
 citation: '<b>Chanwoo Lee</b> and Miaoyan Wang. Under review, 2022.'
 ---
 

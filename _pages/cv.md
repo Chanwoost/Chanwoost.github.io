@@ -19,6 +19,11 @@ Education
 
 Publications
 ======
+<b>[Statistical and computational rates in high rank tensor estimation](https://chanwoost.github.io/publications/hrank)</b> <br>
+<b>Chanwoo Lee</b> and Miaoyan Wang.
+<i>Under review, 2021</i>. <br>
+
+
 <b>[Smooth tensor estimation with unknown permutations](https://chanwoost.github.io/publications/Smooth)</b> <br>
 <b>Chanwoo Lee</b> and Miaoyan Wang.
 <i>Under review, 2021</i>. <br>

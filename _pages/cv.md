@@ -19,6 +19,12 @@ Education
 
 Publications
 ======
+<b>[Sufficient dimension reduction for feature matrices](https://chanwoost.github.io/publications/sdr)</b> <br>
+<b>Chanwoo Lee</b>.
+<i>Under review, 2023</i>. <br>
+
+
+
 <b>[Statistical and computational rates in high rank tensor estimation](https://chanwoost.github.io/publications/hrank)</b> <br>
 <b>Chanwoo Lee</b> and Miaoyan Wang.
 <i>Under review, 2022</i>. <br>

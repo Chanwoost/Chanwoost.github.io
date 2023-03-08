@@ -57,6 +57,20 @@ Jiaxin Hu, <b>Chanwoo Lee</b>, and Miaoyan Wang.
 <b>Chanwoo Lee</b> and Miaoyan Wang.
 <i>Proceedings of International Conference on Machine Learning (ICML)</i>, 2020.
 
+
+
+Awards & Scholarships
+======
+* Best Student Paper Award, Statistical Learning and Data Science Section, American Statistical Association, 2023
+* Honorable Mention Graduate Course TA Award, Department of Statistics, University of Wisconsin-Madison, 2022
+* NESS Student Research Awards, New England Statistical Society (NESS), 2022
+* IMS Hannan Graduate Student Travel Award, Institute of Mathematical Statistics (IMS), 2022
+* Seoul National University Alumni Scholarship, Seoul National University Alumni Association, 2016-2017
+* National Scholarship For Science & Engineering, Korea Student Aid Foundation, 2012-2017
+
+
+ 
+
   
 Talks
 ======

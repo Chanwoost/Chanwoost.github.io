@@ -5,7 +5,7 @@ permalink: /publications/sdr
 citation: '<b>Chanwoo Lee</b>. Under review, 2023.'
 ---
 
-[[Preprint]]
+[[Preprint]](https://arxiv.org/pdf/2303.04286.pdf)
 
 ## Abstract
 We address the problem of sufficient dimension reduction for feature matrices, which arises often in sensor network localization, brain neuroimaging, and electroencephalography analysis. In general, feature matrices have both row- and column-wise interpretations and contain structural information that can be lost with naive vectorization approaches. To address this, we propose a method called principal support matrix machine (PSMM) for the matrix sufficient dimension reduction.

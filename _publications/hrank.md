@@ -5,7 +5,7 @@ permalink: /publications/hrank
 citation: '<b>Chanwoo Lee</b> and Miaoyan Wang. Under review, 2022.'
 ---
 
-[[Preprint]](https://pages.stat.wisc.edu/~miaoyan/LVM.pdf) 
+[[Preprint]](https://arxiv.org/abs/2304.04043) 
 
 ## Abstract
 Higher-order tensor datasets arise commonly in recommendation systems, neuroimaging, social networks, and more. In this article, we develop methods for estimating a possibly high rank signal tensor from noisy observation. We consider a

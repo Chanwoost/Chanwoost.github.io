@@ -11,7 +11,7 @@ Click [here](https://Chanwoost.github.io/files/CV_ChanwooLee.pdf) for PDF versio
 
 Education
 ======
-* Ph.D. in Statistics with minor in Computer Science, University of Wisconsin-Madison, 2023 (expected)
+* Ph.D. in Statistics with minor in Computer Science, University of Wisconsin-Madison, 2023
   * Advisor: Miaoyan Wang
 * B.S. in Mathematical Science and Statistics, Seoul National University, 2018
 

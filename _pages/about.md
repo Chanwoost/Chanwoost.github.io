@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Candidate in Statistics minoring Computer Science at University of Wisconsin-Madison.  My advisor is Professor [Miaoyan Wang](http://pages.stat.wisc.edu/~miaoyan). My research interest lies at the intersection of statistics, machine learning, and optimization. I mainly focus on developing statistical tools for analyzing matrix or tensor valued data. 
+As of June 2023, I am a quantitative researcher at Citadel.
+
+I received Ph.D. in Statistics minoring Computer Science at University of Wisconsin-Madison.  My advisor is Professor [Miaoyan Wang](http://pages.stat.wisc.edu/~miaoyan). My research interest lies at the intersection of statistics, machine learning, and optimization. I mainly focus on developing statistical tools for analyzing matrix or tensor valued data. 
 
 Prior to joining the Ph.D. program in September 2018,  I received B.S. in  Mathematical Science  and Statistics at  Seoul National University in South Korea.
 

@@ -61,10 +61,11 @@ Jiaxin Hu, <b>Chanwoo Lee</b>, and Miaoyan Wang.
 
 Awards & Scholarships
 ======
-* Best Student Paper Award, Statistical Learning and Data Science Section, American Statistical Association, 2023
-* Honorable Mention Graduate Course TA Award, Department of Statistics, University of Wisconsin-Madison, 2022
-* NESS Student Research Awards, New England Statistical Society (NESS), 2022
-* IMS Hannan Graduate Student Travel Award, Institute of Mathematical Statistics (IMS), 2022
+* [IMS Lawrence D. Brown Ph.D. Student Award](https://imstat.org/2023/09/30/2024-lawrence-d-brown-phd-student-award-winners/), Institute of Mathematical Statistics (IMS), 2024
+* [Best Student Paper Award, Statistical Learning and Data Science Section](https://community.amstat.org/discussion/2023-slds-student-paper-award-results), American Statistical Association, 2023
+* [Honorable Mention Graduate Course TA Award](https://stat.wisc.edu/2022/06/27/uw-department-of-statistics-teaching-assistants-awards/), Department of Statistics, University of Wisconsin-Madison, 2022
+* [NESS Student Research Awards](https://nestat.org/researchawards/), New England Statistical Society (NESS), 2022
+* [IMS Hannan Graduate Student Travel Award](https://imstat.org/2022/05/05/recipients-of-the-2022-ims-hannan-graduate-student-travel-awards-announced/), Institute of Mathematical Statistics (IMS), 2022
 * Seoul National University Alumni Scholarship, Seoul National University Alumni Association, 2016-2017
 * National Scholarship For Science & Engineering, Korea Student Aid Foundation, 2012-2017
 

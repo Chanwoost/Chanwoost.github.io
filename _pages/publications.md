@@ -6,25 +6,25 @@ author_profile: true
 
 <b>[Sufficient dimension reduction for feature matrices](https://chanwoost.github.io/publications/sdr)</b> <br>
 <b>Chanwoo Lee</b>.
-<i>Under review, 2023</i>. <br>
+<i>Under review</i>. <br>
 
 
 <b>[Statistical and computational rates in high rank tensor estimation](https://chanwoost.github.io/publications/hrank)</b> <br>
 <b>Chanwoo Lee</b> and Miaoyan Wang.
-<i>Under review, 2022</i>. <br>
+<i>Under review</i>. <br>
 * This work wins Best Student Paper Award from the Statistical Learning and Data Science Section of American Statistical Association (ASA), 2023.
 
 
 <b>[Smooth tensor estimation with unknown permutations](https://chanwoost.github.io/publications/Smooth)</b> <br>
 <b>Chanwoo Lee</b> and Miaoyan Wang.
-<i>Under review, 2021</i>. <br>
+<i>Minor revision under JASA - Theory and Methods, 2023.</i>. <br>
 * This work wins NESS Student Research Award, 2022.
 * This work wins IMS Hannan Graduate Student Travel Award, 2022.
 * Part of the work is selected as oral presentation into NeurIPS 2021 Workshop on Quantum Tensor Networks in Machine Learning.
 
 <b>[Nonparametric trace regression in high dimensions via sign series representation](https://chanwoost.github.io/publications/nonpara)</b> <br>
 <b>Chanwoo Lee</b>, Lexin Li, Hao Helen Zhang, and Miaoyan Wang.
-<i>Under review, 2021</i>. 
+<i>Under review</i>. 
 
 <b>[Beyond the Signs: Nonparametric tensor completion via sign series](https://chanwoost.github.io/publications/signT)</b> <br>
 <b>Chanwoo Lee</b> and  Miaoyan Wang.

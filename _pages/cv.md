@@ -39,6 +39,7 @@ Publications
 <b>[Statistical and computational rates in high rank tensor estimation](https://chanwoost.github.io/publications/hrank)</b> <br>
 <b>Chanwoo Lee</b> and Miaoyan Wang.
 <i>Under review</i>. <br>
+* This work wins the Lawrence D. Brown Ph.D. Student Award from the Institute of Mathematical Statistics (IMS), 2024.
 * This work wins Best Student Paper Award from the Statistical Learning and Data Science Section of American Statistical Association (ASA), 2023.
 
 <b>[Smooth tensor estimation with unknown permutations](https://chanwoost.github.io/publications/Smooth)</b> <br>

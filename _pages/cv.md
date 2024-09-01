@@ -17,22 +17,33 @@ Education
 
 
 
+Awards & Scholarships
+======
+* [IMS Lawrence D. Brown Ph.D. Student Award](https://imstat.org/2023/09/30/2024-lawrence-d-brown-phd-student-award-winners/), Institute of Mathematical Statistics (IMS), 2024
+* [Best Student Paper Award, Statistical Learning and Data Science Section](https://community.amstat.org/discussion/2023-slds-student-paper-award-results), American Statistical Association, 2023
+* [Honorable Mention Graduate Course TA Award](https://stat.wisc.edu/2022/06/27/uw-department-of-statistics-teaching-assistants-awards/), Department of Statistics, University of Wisconsin-Madison, 2022
+* [NESS Student Research Awards](https://nestat.org/researchawards/nessresearch2022/), New England Statistical Society (NESS), 2022
+* [IMS Hannan Graduate Student Travel Award](https://imstat.org/2022/05/05/recipients-of-the-2022-ims-hannan-graduate-student-travel-awards-announced/), Institute of Mathematical Statistics (IMS), 2022
+* Seoul National University Alumni Scholarship, Seoul National University Alumni Association, 2016-2017
+* National Scholarship For Science & Engineering, Korea Student Aid Foundation, 2012-2017
+
+
 Publications
 ======
 <b>[Sufficient dimension reduction for feature matrices](https://chanwoost.github.io/publications/sdr)</b> <br>
 <b>Chanwoo Lee</b>.
-<i>Under review, 2023</i>. <br>
+<i>Under review</i>. <br>
 
 
 
 <b>[Statistical and computational rates in high rank tensor estimation](https://chanwoost.github.io/publications/hrank)</b> <br>
 <b>Chanwoo Lee</b> and Miaoyan Wang.
-<i>Under review, 2022</i>. <br>
+<i>Under review</i>. <br>
 * This work wins Best Student Paper Award from the Statistical Learning and Data Science Section of American Statistical Association (ASA), 2023.
 
 <b>[Smooth tensor estimation with unknown permutations](https://chanwoost.github.io/publications/Smooth)</b> <br>
 <b>Chanwoo Lee</b> and Miaoyan Wang.
-<i>Under review, 2021</i>. <br>
+<i>Minor revision under JASA - Theory and Methods, 2023</i>. <br>
 * This work wins NESS Student Research Award, 2022.
 * This work wins IMS Hannan Graduate Student Travel Award, 2022.
 * Part of the work is selected as oral presentation into NeurIPS 2021 Workshop on Quantum Tensor Networks in Machine Learning.
@@ -40,7 +51,7 @@ Publications
 
 <b>[Nonparametric trace regression in high dimensions via sign series representation](https://chanwoost.github.io/publications/nonpara)</b> <br>
 <b>Chanwoo Lee</b>, Lexin Li, Hao Helen Zhang, and Miaoyan Wang.
-<i>Under review, 2021</i>. 
+<i>Under review</i>. 
 
 <b>[Beyond the Signs: Nonparametric tensor completion via sign series](https://chanwoost.github.io/publications/signT)</b> <br>
 <b>Chanwoo Lee</b> and Miaoyan Wang.
@@ -58,16 +69,6 @@ Jiaxin Hu, <b>Chanwoo Lee</b>, and Miaoyan Wang.
 <i>Proceedings of International Conference on Machine Learning (ICML)</i>, 2020.
 
 
-
-Awards & Scholarships
-======
-* [IMS Lawrence D. Brown Ph.D. Student Award](https://imstat.org/2023/09/30/2024-lawrence-d-brown-phd-student-award-winners/), Institute of Mathematical Statistics (IMS), 2024
-* [Best Student Paper Award, Statistical Learning and Data Science Section](https://community.amstat.org/discussion/2023-slds-student-paper-award-results), American Statistical Association, 2023
-* [Honorable Mention Graduate Course TA Award](https://stat.wisc.edu/2022/06/27/uw-department-of-statistics-teaching-assistants-awards/), Department of Statistics, University of Wisconsin-Madison, 2022
-* [NESS Student Research Awards](https://nestat.org/researchawards/nessresearch2022/), New England Statistical Society (NESS), 2022
-* [IMS Hannan Graduate Student Travel Award](https://imstat.org/2022/05/05/recipients-of-the-2022-ims-hannan-graduate-student-travel-awards-announced/), Institute of Mathematical Statistics (IMS), 2022
-* Seoul National University Alumni Scholarship, Seoul National University Alumni Association, 2016-2017
-* National Scholarship For Science & Engineering, Korea Student Aid Foundation, 2012-2017
 
 
  
@@ -101,10 +102,11 @@ Networks in Machine Learning
 
 Work experience
 ======
+* Quantitative Researcher, Citadel, 2023 - Present
 
 * Quantitative Research Summer Intern, Citadel, 2022
 
-* Graduate Research Assistant, University of Wisconsin-Madison, 2019-Present
+* Graduate Research Assistant, University of Wisconsin-Madison, 2019-2023
 
 * Summer Research Assistant, Institude for Foundation of Data Science (IFDS), 2021
 

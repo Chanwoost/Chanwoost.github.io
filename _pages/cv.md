@@ -44,7 +44,7 @@ Publications
 
 <b>[Smooth tensor estimation with unknown permutations](https://chanwoost.github.io/publications/Smooth)</b> <br>
 <b>Chanwoo Lee</b> and Miaoyan Wang.
-<i>JASA - Theory and Methods, accepted, 2024</i>. <br>
+<i>Journal of the American Statistical Association - Theory and Methods</i>, accepted, 2024. <br>
 * This work wins NESS Student Research Award, 2022.
 * This work wins IMS Hannan Graduate Student Travel Award, 2022.
 * Part of the work is selected as oral presentation into NeurIPS 2021 Workshop on Quantum Tensor Networks in Machine Learning.
